@@ -21,7 +21,7 @@ body{
     height: 27%;
     display: flex;
     align-items: center;
-    border-bottom: solid 2px red;
+    border-bottom: solid 2px rgb(0, 200, 255);
     margin-left: 8%;
     margin-right: 8%;
     margin-bottom: 0%;
@@ -62,7 +62,7 @@ body{
 
 #description{
     font-size: 20px;
-    background: red;
+    background: rgb(87, 224, 255);
     font-weight: bold;
     color: black;
 }
