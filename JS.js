@@ -136,4 +136,3 @@ function showDivs8(n) {
   }
   x[slideIndex8-1].style.display = "block";
 }
-
